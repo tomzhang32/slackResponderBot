@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A configurable chat bot for Slack",
   "dependencies": {
-    "request": ""
-  }
+    "request": "^2.67.0"
+  },
+  "private": "true"
 }
